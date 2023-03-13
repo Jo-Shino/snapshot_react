@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@snapshot-labs/snapshot.js": "^0.4.70",
     "@types/node": "18.15.1",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
