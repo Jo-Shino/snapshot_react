@@ -19,7 +19,6 @@ declare const window: Window
 
 const inter = Inter({ subsets: ['latin'] })
 
-
 export default function Home() {
   const [title, setTitle] = useState<string>("")
   const [body, setBody] = useState<string>("")
